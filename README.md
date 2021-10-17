@@ -30,7 +30,12 @@
 
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="44" height="40"/>
+  <a>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="44" height="40"/>
+  </a>
+  <a>
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="44" height="40"/>
+  </a>
   <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/android.svg" alt="android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
