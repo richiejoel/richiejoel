@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="44" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/android.svg" alt="android" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
