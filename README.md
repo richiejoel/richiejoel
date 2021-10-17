@@ -1,7 +1,7 @@
 ### Hi there, I'm Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
- - 🔭 I’m currently working on Banco del Pacifico
- - 🌱 I’m currently learning Flutter
+ - 🔭 I’m currently working as iOS/Android Developer
+ - 🌱 I’m currently learning AI, ML, and Blokchain
  - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ...
  - 💬 Ask me about ...
