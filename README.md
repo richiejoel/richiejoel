@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=richiejoel.richiejoel)
 
  - 🔭 I’m currently working as iOS/Android Developer
  - 🌱 I’m currently learning AI, ML, and Blokchain
