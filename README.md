@@ -25,7 +25,7 @@
  - ⚡ Fun fact: I ❤️ modeling and sculping on Blender
 
 
-📈 My Github stats
+### 📈 My Github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=richiejoel&show_icons=true&theme=gotham" alt="richiejoel" />
 
