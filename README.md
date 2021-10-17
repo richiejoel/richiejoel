@@ -23,6 +23,13 @@
  - 📫 How to reach me: ...
  - 😄 Pronouns: ...
  - ⚡ Fun fact: I :heart: modeling and sculping on Blender
+
+
+📈 My Github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=richiejoel&show_icons=true&theme=gotham" alt="richiejoel" />
+
+
   
 <!--
 **richiejoel/richiejoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
