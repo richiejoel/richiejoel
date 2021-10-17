@@ -25,6 +25,21 @@
  - ⚡ Fun fact: I ❤️ modeling and sculping on Blender
 
 
+### 💻 Languages
+
+
+
+### 🛠 Technologys
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="20" height="20"/>        
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="20" height="20"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="20" height="20"/>   
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="17" height="20"/>
+</p>
+
 ### 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=richiejoel&show_icons=true&theme=gotham" alt="richiejoel" />
