@@ -28,10 +28,10 @@
 ### 💻 Languages and Technologies
 
 <p align="center">
-  <span>
+  <span style="margin:4px;">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="44" height="40"/>
   </span>
-  <span>
+  <span style="margin:4px;">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
   </span>
   <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/android.svg" alt="android" width="70" height="60"/>
