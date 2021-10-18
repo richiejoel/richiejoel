@@ -17,7 +17,7 @@
 
  - 🔭 I’m currently working as iOS/Android Developer
  - 🌱 I’m currently learning AI, ML, and Blockchain
- - 🤔 I’m looking for help with Blockchanin
+ - 🤔 I’m looking for help with Blockchain
  - 💬 Ask me about iOS/Android or Javascript/NodeJS/MongoDB
  - 📫 How to reach me: richijoel@icloud.com or richyard558@outlook.es
  - 😄 Pronouns: he/him
