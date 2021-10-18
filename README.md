@@ -91,7 +91,7 @@
   
 <p align="center">
   <span style="margin:5px;">
-    <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/presentation_banner.png" alt="banner"/>
+    <img src="https://raw.githubusercontent.com/richiejoel/richiejoel/main/assets/presentation_banner.png" alt="findhome"/>
   </span>
 </p>
 
