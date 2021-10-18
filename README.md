@@ -28,14 +28,19 @@
 ### 💻 Languages and Technologies
 
 <p align="center">
-  <span style="margin:4px;">
+  <span style="margin:5px;">
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="44" height="40"/>
   </span>
-  <span style="margin:4px;">
+  <span style="margin:5px;">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
   </span>
-  <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/android.svg" alt="android" width="70" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+  <span style="margin:5px;">
+    <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/android.svg" alt="android" width="70" height="60"/>
+  </span>
+  <span style="margin:5px;">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40" height="40"/>
+  </span>
+  <span style="margin:5px;">
   <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
