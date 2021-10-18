@@ -43,7 +43,7 @@
   <span style="margin:5px;">
     <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="40" height="40"/>
   </span>
-  <span style="margin:5px;">
+  <span style="margin:15px;">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/>
   </span>
   <span style="margin:5px;">
