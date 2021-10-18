@@ -99,7 +99,7 @@
   
 <p align="center">
   <span style="margin:5px;">
-    <img src="https://github.com/richiejoel/richiejoel/blob/main/assets/littleshop_banner.png" alt="banner"/>
+    <img src="https://raw.githubusercontent.com/richiejoel/richiejoel/main/assets/littleshop_banner.png" alt="littleshops"/>
   </span>
 </p>
   
