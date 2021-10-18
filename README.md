@@ -88,7 +88,7 @@
 
   
 ## Find Home 🏠
-  
+Application built in koltin. Repository: **[FindHome](https://github.com/richiejoel/findhome)**
 <p align="center">
   <span style="margin:5px;">
     <img src="https://raw.githubusercontent.com/richiejoel/richiejoel/main/assets/presentation_banner.png" alt="findhome"/>
@@ -96,28 +96,11 @@
 </p>
 
 ## Little Shops 🍔
-  
+Application built in flutter with dart. Repository: **[LittleShops](https://github.com/richiejoel/littleshops)**
 <p align="center">
   <span style="margin:5px;">
     <img src="https://raw.githubusercontent.com/richiejoel/richiejoel/main/assets/littleshop_banner.png" alt="littleshops"/>
   </span>
 </p>
   
- 
 
-
-  
-<!--
-**richiejoel/richiejoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
