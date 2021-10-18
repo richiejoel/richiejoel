@@ -88,7 +88,8 @@
 
   
 ## Find Home 🏠
-Application built in koltin. Repository: **[FindHome](https://github.com/richiejoel/findhome)**
+Application built in koltin. 
+Repository: **[FindHome](https://github.com/richiejoel/findhome)**
 <p align="center">
   <span style="margin:5px;">
     <img src="https://raw.githubusercontent.com/richiejoel/richiejoel/main/assets/presentation_banner.png" alt="findhome"/>
@@ -96,7 +97,8 @@ Application built in koltin. Repository: **[FindHome](https://github.com/richiej
 </p>
 
 ## Little Shops 🍔
-Application built in flutter with dart. Repository: **[LittleShops](https://github.com/richiejoel/littleshops)**
+Application built in flutter with dart. 
+Repository: **[LittleShops](https://github.com/richiejoel/littleshops)**
 <p align="center">
   <span style="margin:5px;">
     <img src="https://raw.githubusercontent.com/richiejoel/richiejoel/main/assets/littleshop_banner.png" alt="littleshops"/>
