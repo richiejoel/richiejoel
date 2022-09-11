@@ -10,7 +10,7 @@
   <img align="left" alt="Richiejoel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/yubelgarcia98?si=ba76aef1a842441f">
-  <img align="left" alt="Richiejoel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Richiejoel's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=richiejoel.richiejoel)
